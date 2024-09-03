@@ -1,0 +1,44 @@
+h2{
+    text-align: center;
+    color: yellow;
+    background-color: rgb(16, 2, 29) ;
+}
+p{
+    text-align: center;
+    color: white;
+}
+span{
+    color: green;
+}
+img{
+    border: 3px solid yellow;
+}
+iframe{
+    height: 440px;
+}
+.css{
+    width: 350px;
+    height: 440px;
+}
+table{
+    width: 1300px;
+}
+td{
+    text-align: center;
+    background-color: rgb(34, 5, 61);
+    color: white;
+}
+body{
+    background-color:rgb(16, 2, 29) ;
+    text-align: center;
+}
+.cs{
+    background-color: yellow;
+    width: 350px;
+    border: 1px solid yellow;
+    border-radius: 15px;
+    height: 30px;
+}
+input{
+    width: 1330px;
+}
